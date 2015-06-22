@@ -1,0 +1,13 @@
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Domain.Tests.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Domain.Tests.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Domain.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Infrastructure.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Infrastructure.Tests.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\NFluent.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Domain.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Infrastructure.Tests.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\Mixter.Infrastructure.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\bin\Debug\NFluent.xml
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\obj\Debug\Mixter.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\obj\Debug\Mixter.Domain.Tests.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain.Tests\obj\Debug\Mixter.Domain.Tests.pdb

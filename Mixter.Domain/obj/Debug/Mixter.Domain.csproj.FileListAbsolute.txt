@@ -1,0 +1,4 @@
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain\bin\Debug\Mixter.Domain.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain\bin\Debug\Mixter.Domain.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain\obj\Debug\Mixter.Domain.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Domain\obj\Debug\Mixter.Domain.pdb

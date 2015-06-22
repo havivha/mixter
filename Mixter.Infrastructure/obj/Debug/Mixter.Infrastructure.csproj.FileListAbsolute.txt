@@ -1,0 +1,7 @@
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\bin\Debug\Mixter.Infrastructure.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\bin\Debug\Mixter.Infrastructure.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\bin\Debug\Mixter.Domain.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\bin\Debug\Mixter.Domain.pdb
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\obj\Debug\Mixter.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\obj\Debug\Mixter.Infrastructure.dll
+C:\Users\Einat\Documents\git\mixter\Mixter.Infrastructure\obj\Debug\Mixter.Infrastructure.pdb
