@@ -55,10 +55,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Infrastructure\EventPublisherFake.cs" />
-    <Compile Include="Infrastructure\EventPublisherTest.cs" />
-    <Compile Include="Infrastructure\EventPublisherWithStorageTest.cs" />
-    <Compile Include="Infrastructure\EventsStoreTest.cs" />
+    <Compile Include="EventPublisherFake.cs" />
+    <Compile Include="EventPublisherTest.cs" />
+    <Compile Include="EventPublisherWithStorageTest.cs" />
+    <Compile Include="EventsStoreTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
